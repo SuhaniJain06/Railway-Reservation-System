@@ -33,7 +33,7 @@ This project allows users to view trains, book tickets, manage bookings, and han
 
 ### 🚆 Train List
 
-![Trains](images/trains.png)
+![Trains](images/train.png)
 
 ### 🎟️ Tickets Page
 
