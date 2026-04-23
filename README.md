@@ -113,13 +113,6 @@ dbms_project/
 
 ---
 
-## 👨‍💻 Developed By
-
-* Your Name
-* Team Member 1
-* Team Member 2
-
----
 
 ## 🎯 Project Objective
 
